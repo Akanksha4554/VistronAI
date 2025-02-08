@@ -38,7 +38,7 @@ Streamlit, Netlify (To be done)
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/sonali9561/name of application
+git clone https://github.com/sonali9564/name of application
 cd name of application
 
 ```
